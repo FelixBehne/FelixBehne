@@ -3,7 +3,7 @@
 
 💬 Ask me about Scikit-Learn, Pyspark, Pandas, React, NextJs
 
-📫 How to reach me felixbehne20@gmail.com
+📫 How to reach me mail@felixbehne.de
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felixbehne) 
